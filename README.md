@@ -1,4 +1,4 @@
-<h1>Olá! Meu nome é Akila Santos <img src="https://github.com/Aky3/Aky3/blob/main/Hi.gif" width="25" ></h1>
+<h1>Olá! Meu nome é Ákila Santos <img src="https://github.com/Aky3/Aky3/blob/main/Hi.gif" width="25" ></h1>
 
  - 🗓️ Tenho 19 anos
  - 👩‍🎓 Cursando Redes de Computadores
