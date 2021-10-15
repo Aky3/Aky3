@@ -13,9 +13,10 @@
 <img align="center" alt="Aky3-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Aky3-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Aky3-LARAVEL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"> 
+<img align="right" alt="Aky3-himoto" height="130" width="140" src="https://github.com/Aky3/Aky3/blob/main/Himouto!%20Umaru-chan2.jpg"> 
 </div>
- 
- ##
+
+##
  
  <div>
   
