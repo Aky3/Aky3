@@ -1,11 +1,13 @@
 <h1>Olá! Meu nome é Ákila Santos <img src="https://github.com/Aky3/Aky3/blob/main/Hi.gif" width="25" ></h1>
 
- - 🗓️ Tenho 20 anos
- - 👩‍🎓 Cursando Redes de Computadores
- - 💻 Atualmente estudando Laravel
+ - 🗓️ Tenho 21 anos
+ - 👩‍🎓 Formada em Redes de Computadores
+ - 💻 Atualmente focando em Pentest
  - 😍 Sou simplismente apaixonada por tecnologia
+ - 
  <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aky3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aky3&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div>
