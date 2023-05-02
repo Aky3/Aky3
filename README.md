@@ -6,7 +6,7 @@
  - 😍 Sou simplismente apaixonada por tecnologia
  <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aky3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aky3&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src=""/>
 </div>
 <div>
  <img align="right" alt="Aky3-himoto" height="130" width="140" src="https://github.com/Aky3/Aky3/blob/main/Himouto!%20Umaru-chan2.jpg"> 
